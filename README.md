@@ -4,4 +4,4 @@ test git
 
 Ahojte,
 
-Martin je tu,. Aktualne testujem tento system. Mam rad svoju pracu.
+Martin je tu.... Aktualne testujem tento system. Mam rad svoju pracu.
